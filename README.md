@@ -1,5 +1,5 @@
 # KonsolCpp
-C++ dilinde konsol uygulamaları yapacağım.
+C++ dilinde konsol uygulamaları yapacağım depolama yerimdir.
 
 # Basit Hesap Makinesi
 
