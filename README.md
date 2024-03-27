@@ -1,18 +1,14 @@
 # KonsolCpp
-C++ dilinde konsol uygulamaları yapacağım depolama yerimdir.
+This is my repository where I will be creating console applications in C++.
 
-# Basit Hesap Makinesi
-
-Dört işlem yapabilen konsol tabanlı basit hesap makinesi kodları paylaşıldı.
+# Simple Calculator
+Code for a simple console-based calculator capable of performing the four basic arithmetic operations has been shared.
 
 # Hello World
+The quintessential "HELLO WORLD" printing code, a starting point for every programming endeavor, has been shared.
 
-Her programlamanın başı olan "HELLO WORLD" yazdırma kodu paylaşıldı.
+# Calculate the Area and Circumference of a Circle
+A code snippet that calculates the area and circumference of a circle, requiring only its radius, has been shared.
 
-# Dairenin Alanını - Çevresini Hesaplama
-
-Dairenin alanını ve çevresini hesaplayan bunu yapmak için sadece yarıçapına ihtiyaç duyan kodlar parçası paylaşıldı.
-
-# #define Mantığı
-
-#define mantığını kavrayabilmek adına baside indirgenmiş şekilde tanımlanan değerleri ekrana yazdıran kod parçası paylaşıldı.
+# define Logic
+A code snippet demonstrating the logic of #define by defining values in a simplified manner and printing them to the screen has been shared.
