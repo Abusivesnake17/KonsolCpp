@@ -12,3 +12,7 @@ A code snippet that calculates the area and circumference of a circle, requiring
 
 # define Logic
 A code snippet demonstrating the logic of #define by defining values in a simplified manner and printing them to the screen has been shared.
+
+# Addition Process
+
+Addition operation codes based on the addition of two numbers were shared.
