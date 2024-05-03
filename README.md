@@ -16,3 +16,7 @@ A code snippet demonstrating the logic of #define by defining values in a simpli
 # Addition Process
 
 Addition operation codes based on the addition of two numbers were shared.
+
+# Subtraction Process
+
+Subtraction operation codes based on the subtraction of two numbers were shared.
